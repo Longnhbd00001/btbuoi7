@@ -1,0 +1,49 @@
+img {
+    border: solid 4px black;
+}
+
+.img1 {
+    width: 150px;
+    height: 150px;
+}
+
+.img2 {
+    width: 150px;
+    height: 150px;
+}
+
+.img3 {
+    width: 150px;
+    height: 150px;
+}
+
+.img0 {
+    width: 466px;
+    height: 450px;
+}
+
+.box_star {
+    color: yellow;
+}
+
+.add {}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    width: 1086px;
+    height: 600px;
+
+}
+.money_slide{
+    
+}
+h5{
+    
+}
+.noidung{
+    width: 1086px;
+    height: 600px;
+}
